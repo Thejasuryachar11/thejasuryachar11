@@ -1,125 +1,137 @@
-# Welcome to Theja's GitHub Profile 👋
+<h1 align="center">👋 Welcome to Theja's GitHub Profile</h1>
 
-I’m **Theja Suryachar P J**, a final-year **B.E. Computer Science and Engineering (Data Science)** student at  
-**Alva’s Institute of Engineering and Technology**, passionate about **Data Science, AI, and Web Development**.  
-I enjoy turning data into insights and building practical applications that solve real-world problems.
-
----
-
-## 🔍 About Me
-
-- 🎓 Final-year **B.E. CSE (Data Science)** (CGPA: 7.79 so far)
-- 🎯 Seeking opportunities in **Data Science, AI, or Software Development**
-- 🧠 Strong in **Python**, **Data Visualization**, and **Web Development**
-- 💡 I love working on end-to-end projects: data wrangling → modeling → visualization → deployment
-- 🌱 Currently learning more about **Machine Learning**, **Deep Learning**, and **dashboarding tools**
+<p align="center">
+  <b>Data Science | Machine Learning | Web Development</b><br>
+  Turning data into meaningful insights & ideas into impactful solutions.
+</p>
 
 ---
 
-## 📬 Contact
+## 🧑‍💻 About Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/thejasuryachar11](https://linkedin.com/in/thejasuryachar11)
-- 📧 **Email**: [thejasuryacharpj@gmail.com](mailto:thejasuryacharpj@gmail.com)
-- 🧑‍💻 **GitHub**: [github.com/thejasuryachar11](https://github.com/thejasuryachar11)
-- 🌐 **Portfolio**: [surya-char.netlify.app](https://surya-char.netlify.app)
-- 🧩 **LeetCode**: [leetcode.com/u/thejasuryachar](https://leetcode.com/u/thejasuryachar)
+I’m **Theja Suryachar P J**, a final-year **B.E. CSE (Data Science)** student at  
+**Alva’s Institute of Engineering & Technology**.  
+
+I’m passionate about **Data Science, AI, Analytics, and Web Development** — building practical solutions through data-driven approaches and clean code.  
+Currently exploring advanced **ML & Deep Learning**, and open to opportunities that challenge me to grow.
 
 ---
 
-## 🛠 Skills
+### 📌 Highlights
 
-### 💻 Programming & Markup
+| 🎓 Education | B.E. Computer Science (Data Science) — Final Year |
+|-------------|---------------------------------------------------|
+| 📊 Interests | Data Science, Machine Learning, Dashboards, Web Dev |
+| 🏢 Looking For | Internships & Full-time Roles |
+| ⚡ Strengths | Problem-solving, Clean coding, Fast learning, UI thinking |
 
-- **Languages**: Python, SQL, HTML, CSS, JavaScript
+---
+
+## 📬 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/thejasuryachar11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:thejasuryacharpj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/thejasuryachar11"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://surya-char.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/u/thejasuryachar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming & Backend
+
+`Python` `SQL` `JavaScript`  
 
 ### 📊 Data Science & Analytics
 
-- **Libraries / Tools**: Pandas, NumPy, Machine Learning
-- **Visualization**: Power BI, custom dashboards
-- **Workflow**: Data cleaning, preprocessing, feature engineering, model building
+`Pandas` `NumPy` `Machine Learning` `Data Visualization`  
 
-### 🌐 Web Development
+### 📈 Dashboarding & Tools
 
-- **Frameworks**: Flask, Streamlit
-- **Other**: Responsive UI, dashboard design
+`Power BI` `Excel` `Streamlit` `Flask` `MySQL` `Git/GitHub`  
 
-### 🧰 Developer Tools
+### 🧑‍🎨 UI / UX & Frontend
 
-- Git & GitHub  
-- MySQL  
-- VS Code  
-- Jupyter Notebook  
-- Excel  
+`HTML5` `CSS3` `Responsive Design` `Data UI Presentation`  
 
 ### 🤝 Soft Skills
 
-- Creativity  
-- Leadership  
-- Teamwork  
-- Communication  
+`Creativity` `Teamwork` `Leadership` `Communication`
 
 ---
 
 ## 💼 Experience
 
-### 📊 Data Analyst Intern | Inventeron Technologies  
+### 📊 Data Analyst Intern — Inventeron Technologies  
 📍 Onsite | ⏱ Sept 2025 – Dec 2025
 
-- Performed **data cleaning, preprocessing, and transformation** to prepare datasets for analysis  
-- Built **dashboards and visualizations** to present insights to stakeholders  
-- Worked with **Python, SQL, and Excel** to analyze large datasets and identify key trends & patterns  
-- Collaborated with the **data science team** to support **business-driven analytical solutions**
+- Performed **data cleaning & preprocessing** for analytical projects  
+- Built **interactive dashboards** to present insights  
+- Used **Python + SQL + Excel** for analytics & reports  
+- Worked closely with **data science team on business use-cases**
 
 ---
 
 ## 🎓 Academic Projects
 
-### 📺 YouTube Trend Analysis Dashboard – TrendiFy  
-🛠 **R, Shiny** | 📅 Mar 2025 – Jun 2025
+### 📺 YouTube Trend Analysis Dashboard — *TrendiFy* (R Shiny)
 
-- Built an **R Shiny dashboard** to analyze **20K+ YouTube videos** with interactive charts (bar, bubble, boxplot)  
-- Added a **dark mode toggle** and improved UI based on user feedback  
-- Managed end-to-end flow: **data wrangling → visualization → deployment** on ShinyApps.io
-
----
-
-### 🌾 SmartAgri – Crop Disease Detection and Diagnosis  
-🛠 **Python, CNN, Deep Learning** | 📅 Jun 2025 – Dec 2025
-
-- Developing a **CNN-based model** to detect crop diseases from leaf images  
-- Designing a **mobile-friendly interface** to help farmers with **early diagnosis and prevention**
+🔹 Dataset of 20,000 YouTube videos  
+🔹 Dark Mode + Interactive visualizations  
+🔹 End-to-end: Wrangling → Modelling → UI → Hosting  
 
 ---
 
-### 🖼 Image Manipulation Tool  
-🛠 **Python, OpenCV, Tkinter** | 📅 Jan 2025 – Apr 2025
+### 🌾 SmartAgri — Crop Disease Detection (Deep Learning)
 
-- Built a **GUI image editor** with features like crop, rotate, resize, and filters  
-- Implemented **real-time previews** for a smoother user experience
-
----
-
-### 📝 Student Result Management System  
-🛠 **Python, MySQL** | 📅 Aug 2024 – Nov 2024
-
-- Designed a system to **manage academic records** with a GUI interface  
-- Created a **secure MySQL database schema** with a focus on **data integrity** and **role-based access**
+🔹 CNN-based image classification model  
+🔹 Mobile-friendly UI for farmers  
+🔹 Helps detect & prevent crop damage early  
 
 ---
 
-## 📊 GitHub Stats
+### 🖼 Image Manipulation Tool (Python + Tkinter + OpenCV)
 
-> _These cards are generated using external services. They will start showing data as you contribute more._
-
-![Theja's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejasuryachar11&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejasuryachar11&layout=compact&theme=tokyonight)
+🔹 Crop → Rotate → Filters → Resize  
+🔹 Real-time preview  
+🔹 Lightweight GUI application  
 
 ---
 
-## 🚀 What I’m Looking For
+### 📝 Student Result Management System (Python + MySQL)
 
-- 📌 Internships or full-time roles in **Data Science**, **AI / ML**, or **Software Development**
-- 🤝 Collaborative projects where I can contribute in **data analysis, dashboards, or backend logic**
+🔹 Secure DB design & record handling  
+🔹 GUI for marks, attendance & reports  
+🔹 Role-based structured module
 
-If you think I’d be a good fit for your team or project, feel free to reach out! 😊
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thejasuryachar11&show_icons=true&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejasuryachar11&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+## ⚡ What I Bring to the Table
+
+✔ Eye for **clean code & UI design**  
+✔ Strong foundation in **data thinking & analysis**  
+✔ Passion for **solving real-world problems**  
+✔ Open to **collaboration, internships & hiring opportunities**
+
+---
+
+<h3 align="center">🚀 Looking to work on Data, AI, dashboards & impactful products</h3>
+
+<p align="center">
+  <b>Let's collaborate or connect!</b> <br>
+  Drop me a message — I'm always eager to learn & build! 🤝
+</p>
+
+---
