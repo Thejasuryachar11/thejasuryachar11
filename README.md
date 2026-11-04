@@ -4,7 +4,7 @@
 
 AI Engineer • Full Stack Developer • Data Scientist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;Founder+of+Charvex+Global+LLP;Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Scalable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Scalable+Solutions" />
 
 <p>
 
@@ -52,9 +52,8 @@ AI Engineer • Full Stack Developer • Data Scientist
 
 # 💫 About Me
 
-I'm **Theja Suryachar P J**, an entrepreneur, software engineer, and AI enthusiast passionate about creating technology that solves real-world problems.
+I'm **Theja Suryachar P J**, software engineer, and AI enthusiast passionate about creating technology that solves real-world problems.
 
-I'm the **Founder of Charvex Global LLP**, where we're building intelligent software products, enterprise solutions, AI applications, internship ecosystems, and digital platforms that help businesses, educational institutions, and students.
 
 My passion lies at the intersection of
 
@@ -62,49 +61,15 @@ My passion lies at the intersection of
 - 📊 Data Science
 - 💻 Full Stack Development
 - ☁ Cloud Technologies
-- 🚀 Startup Building
 - 📈 Business Automation
 
 ---
 
 # 🚀 Currently Building
 
-## 🏢 Charvex Global LLP
 
-A technology startup delivering
 
-- AI Solutions
-- Custom Software Development
-- Enterprise Web Applications
-- Cloud Solutions
-- Internship Programs
-- Automation Systems
-- Business Digital Transformation
 
----
-
-## 🤖 ARFAVEX
-
-Our growing AI ecosystem focused on intelligent productivity and enterprise automation.
-
-Current products include
-
-- 🎓 ARFAVEX ERP
-- 🤖 AI Career Mentor
-- 📚 EdTech Solutions
-- ⚡ Intelligent Automation Tools
-- 📈 Business Intelligence Platforms
-
----
-
-# 💼 Experience
-
-### 🚀 Founder
-**Charvex Global LLP**
-
-Building AI-powered products, managing client projects, mentoring interns, and scaling technology solutions.
-
----
 
 ### 🌐 Web Developer
 APSIS Solutions
