@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Theja Suryachar P J
 
-### 🚀 Entrepreneur • Founder @ Charvex Global LLP • AI Engineer • Full Stack Developer • Data Scientist
+AI Engineer • Full Stack Developer • Data Scientist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;Founder+of+Charvex+Global+LLP;Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Scalable+Solutions" />
 
